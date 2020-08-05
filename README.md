@@ -1,5 +1,5 @@
 ### Attempting to make things faster, success TBD
-# Reach me at phil@philkrie.me
+<p>Reach me at phil@philkrie.me</p>
 
 <!--
 **philkrie/philkrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
