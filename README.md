@@ -1,4 +1,4 @@
-### Attempting to make things faster, success TBD
+### Attempting to make things faster, success TBD. Generally confused.
 <p>Reach me at phil@philkrie.me</p>
 
 <!--
